@@ -1,0 +1,31 @@
+.container {
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: bold; 
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.column { 
+  padding: 20px;
+  flex: 1 0;
+}
+
+
+img {
+  padding-left: 100px;
+  width: 300x;
+  height: 300px;
+}
+
+.footer {
+  text-align: center;
+  margin: 20px;
+}
+
+.title {
+  font-weight: bold; 
+}
